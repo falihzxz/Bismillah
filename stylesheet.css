@@ -1,0 +1,36 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #DEB887;
+  font-size: 36px;
+  color: #fff;
+  height: 90px;
+}
+
+.Title h1 {
+  padding: 20px 40px;
+}
+
+.main {
+  background-image: url('golden-european-pattern.jpg');
+  color: #000000;
+  padding: 100px 80px;
+}
+
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.contents {
+  color: #000000;
+}
+
+.footer {
+  color: #000000;
+}
